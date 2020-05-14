@@ -3,6 +3,8 @@
 [![Go version](https://img.shields.io/github/go-mod/go-version/:author_username/:module_name?style=flat-square)](https://github.com/:author_username/:module_name/blob/master/go.mod)
 [![Go Report Card](https://goreportcard.com/badge/github.com/:author_username/:module_name?style=flat-square)](https://goreportcard.com/report/github.com/:author_username/:module_name)
 [![Godoc](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](https://godoc.org/github.com/:author_username/:module_name)
+[![Build Status](https://travis-ci.com/:author_username/:module_name.svg?branch=master)](https://travis-ci.com/:author_username/:module_name)
+[![codecov](https://codecov.io/gh/:author_username/:module_name/branch/master/graph/badge.svg)](https://codecov.io/gh/:author_username/:module_name)
 [![Releases](https://img.shields.io/github/v/release/:author_username/:module_name?sort=semver&style=flat-square)](https://github.com/:author_username/:module_name/releases)
 [![LICENSE](https://img.shields.io/github/license/:author_username/:module_name?style=flat-square)](https://github.com/:author_username/:module_name/blob/master/LICENSE)
 
